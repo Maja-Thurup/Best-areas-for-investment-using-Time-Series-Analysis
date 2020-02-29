@@ -13,16 +13,7 @@ For testing how this method works there is **test_predictions(ts, test_size=0.05
 Overall this project can give a good perspective on real estate market trends.
 
 
-### Necessary Libraries 
-`
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import itertools
-import warnings
-warnings.filterwarnings('ignore')
-from statsmodels.tsa.arima.model import ARIMA
-from sklearn.metrics import mean_squared_error`
+
 
 
 
